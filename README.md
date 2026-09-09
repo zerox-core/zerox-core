@@ -1,5 +1,5 @@
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=gradient&text=Xice%20Zhu&fontSize=50&fontAlignY=38&desc=Android%20Developer%20%7C%20Quant%20Researcher%20%7C%20AI%20Tooling%20Builder&descAlignY=58&animation=fadeIn" alt="banner"/>
+<img width="100%" src="https://raw.githubusercontent.com/zerox-core/zerox-core/main/assets/banner.svg" alt="banner"/>
 </div>
 
 <div align="center">
