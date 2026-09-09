@@ -61,9 +61,8 @@
 ## 🤝 Connect With Me
 
 <div align="center">
-<a href="mailto:【邮箱】"><img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="【LinkedIn链接】"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="【个人网站链接】"><img src="https://img.shields.io/badge/Portfolio-Visit-111111?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="mailto:zhuxice@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://zeroxcore.tech/"><img src="https://img.shields.io/badge/Portfolio-Visit-111111?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 </div>
 
 <div align="center">
