@@ -48,6 +48,14 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=zerox-core&theme=tokyonight&hide_border=true" alt="streak"/>
 </div>
 
+## 🐍 Contribution Snake
+
+*蛇走过的贡献格会被吃掉，然后按被吃顺序约 15 秒后渐变恢复*
+
+<div align="center">
+<img width="100%" src="https://raw.githubusercontent.com/zerox-core/zerox-core/output/github-contribution-grid-snake.svg" alt="contribution snake"/>
+</div>
+
 ## 💡 Areas of Interest
 
 <div align="center">
