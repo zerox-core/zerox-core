@@ -22,8 +22,8 @@ from collections import deque
 USER = os.environ.get("SNAKE_USER", "zerox-core")
 TOKEN = os.environ["GITHUB_TOKEN"]
 
-STEP_MAX = 0.045         # 单格耗时上限（秒），路径很长时自动压缩总时长
-PATH_SECONDS = 16.0      # 蛇完成整条觅食路径的目标时长（秒）
+STEP_MAX = 0.11          # 单格耗时上限（秒），路径很长时自动压缩总时长
+PATH_SECONDS = 20.0      # 蛇完成整条觅食路径的目标时长（秒）
 BODY_LEN = 10            # 可见蛇身长度（格）
 RECENT_WINDOW = 16       # 路径规划时视为"会撞上的身体"的窗口（格）
 RECOVER_DELAY = 15.0     # 被吃后到开始恢复的等待（秒）
@@ -36,9 +36,9 @@ RAD = 2
 ROWS = 7
 EMPTY = "#161b22"
 EATEN = "#0d1117"
-BODY = "#39d353"
-HEAD_CORE = "#c4f5d3"    # 蛇头亮芯
-HEAD_HALO = "#9be9a8"    # 蛇头光晕
+BODY = "#f0883e"         # 蛇身（橙色系，与绿色贡献块区分）
+HEAD_CORE = "#ffe1bd"    # 蛇头亮芯
+HEAD_HALO = "#f5a863"    # 蛇头光晕
 
 QUERY = """query($login: String!) {
   user(login: $login) {

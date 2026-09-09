@@ -19,7 +19,7 @@ OUT_PATH = ROOT / "assets" / "banner.svg"
 W, H = 854.0, 230.0
 TITLE = "零核"
 TITLE_SIZE = 96
-DESC = "Build quietly. Let the evidence speak."
+DESC = "安静做事，让证据说话。"
 DESC_SIZE = 20
 
 GRAD_TOP = "#3b82f6"   # 蓝
