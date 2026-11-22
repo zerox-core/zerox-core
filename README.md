@@ -36,6 +36,48 @@
 
 </div>
 
+## 📌 置顶项目
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🎯 [win_MCP](https://github.com/zerox-core/win_MCP)
+
+**Windows 本地开发 MCP 服务器** — 把你的电脑变成 AI 工作台的受控执行端。
+
+```text
+AI 客户端 → HTTPS 隧道 → 你的 MCP → 项目目录与工具链
+```
+
+- 受控文件读写、Git 检视、构建/测试执行
+- Android / Windows / Node / Python 工具链探测与驱动
+- 签名二进制制品导入，目录边界 + 审批 + 审计
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Node](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-2496ED?style=flat-square)
+
+</td>
+<td width="50%" valign="top">
+
+### 🔍 为什么值得看
+
+不是 demo，而是按真实威胁模型构建的完整实现：
+
+- 双层鉴权（Bearer + PIN），开源代码不含任何真实凭证
+- 目录授权引擎：once / session / permanent 三档签名决策
+- Windows 管理员代理（named-pipe broker）隔离提权操作
+- 900+ 测试用例覆盖安全边界与工具契约
+
+查看 → [仓库](https://github.com/zerox-core/win_MCP) · [安全说明](https://github.com/zerox-core/win_MCP/blob/main/SECURITY.md)
+
+</td>
+</tr>
+</table>
+
+---
+
 ## 📊 GitHub Statistics
 
 <div align="center">
